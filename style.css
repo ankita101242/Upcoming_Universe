@@ -1,0 +1,61 @@
+*{
+   font-family: sans-serif;
+   margin: 0px;
+   padding: 0px;
+}
+
+#logo{
+   border-radius : 70px;
+   margin-left: 20px;
+   margin-top: 10px;
+}
+
+div.here{
+   
+   font-size: 120%;
+   height: 110px;
+   background-color: rgb(202, 227, 252);
+}
+
+.navigation{
+   font-size: large;
+   height : 30px;
+   text-transform:uppercase;
+   padding-top: 10px;
+   background-color: rgb(147, 211, 251);
+   text-decoration-color: aliceblue;
+}
+
+a{
+    margin-right: 150px;
+}
+
+.incenter{
+    background-color: rgb(94, 174, 254);
+
+}
+
+.thumbnail{
+    box-align : centre;
+    width : 1525px;
+}
+
+.mid1
+{
+    background-image: url("download.jpg");
+    background-color: rgb(75, 170, 253);
+}
+.mid2
+{
+    
+    background-color: rgb(53, 144, 255);
+}
+
+
+.bottom{
+    background-color: rgb(43, 89, 254);
+}
+
+h1{
+    text-align : centre;
+}
